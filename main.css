@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Times New Roman", Times, serif;
+}
+.box1 {
+  width: 150px;
+  height: 60px;
+  background-color: #8598cc;
+  margin:10px auto;
+}
+.box1 p {
+  text-align: center;
+  font-size: 30px;
+  line-height: 60px;
+  color: white;
+}
+.text {
+  font-size: 40px;
+  font-weight: 900;
+  text-align:center;
+  margin-top: 10px;
+}
+.text span{
+  color:#00aeef;
+}
+.paragrap{
+  font-size:20px;
+  text-align:center;
+  margin-top:20px;
+}
+.fristname{
+  display:flex;
+  justify-content: center;
+}
+.name{
+  background-color: black;
+  color:white;
+  width:150px;
+  height:50px;
+  font-size:20px;
+  text-align:center;
+  line-height:50px;
+  margin:10px;
+
+
+}
+.frist{
+  background-color: black;
+  color:white;
+  width:150px;
+  height:50px;
+  font-size:20px;
+  text-align:center;
+  line-height:50px;
+  margin:10px;
+
+}
